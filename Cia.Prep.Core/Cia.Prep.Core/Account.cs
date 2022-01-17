@@ -49,9 +49,7 @@ namespace Howest.Cia.Bank.Core
 
             Balance -= amount;
             return Balance ;
-            // add 1 
-            //add 2
-            //add 3
+            // add
 
            
         }
